@@ -79,7 +79,7 @@ const config = {
             position: 'left',
             label: '文档',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '更新日志', position: 'left'},
           {
             href: 'https://github.com/isquackxl/utility',
             label: 'GitHub',
